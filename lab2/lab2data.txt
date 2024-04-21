@@ -21,4 +21,7 @@
 20|Thad Topaz|78|Cashier|18.00
 21|Ulysses Ulexite|37|Cook|16.50
 22|Vivian Vanadinite|23|Sales|17.00
-
+23|Walter Wulfenite|43|Cashier|15.00
+24|Xavier Xonotlite|25|Baker|16.50
+25|Yolanda Yugawaralite|25|Cook|17.00
+26|Zeke Zircon|31|Cook|15.00
